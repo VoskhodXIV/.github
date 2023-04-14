@@ -25,7 +25,7 @@ This also covers Linux system administration, networking fundamentals, polyglot 
 - [x] Serverless Computing
 - [x] Securing cloud applications and infrastructure
 
-![final-patch](https://user-images.githubusercontent.com/97932746/201548646-8a8439bd-5f6e-487a-a9b7-1d57ba0187be.png)
+<img src="https://user-images.githubusercontent.com/97932746/201548646-8a8439bd-5f6e-487a-a9b7-1d57ba0187be.png" alt="final-patch" width="500" height="500">
 
 <!--
 
